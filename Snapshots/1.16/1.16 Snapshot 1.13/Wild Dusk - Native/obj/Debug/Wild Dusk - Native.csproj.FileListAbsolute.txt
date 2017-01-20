@@ -1,0 +1,102 @@
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csc.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csc.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csc.rsp
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csi.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csi.rsp
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\vbc.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\vbc.rsp
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\Wild Dusk - Native.dll.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\Wild Dusk - Native.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\Wild Dusk - Native.pdb
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\obj\Debug\Wild Dusk - Native.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\obj\Debug\Wild Dusk - Native.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk\Wild Dusk Proyect\Wild Dusk Releases\Build\Wild Dusk - Native\Wild Dusk - Native\obj\Debug\Wild Dusk - Native.pdb
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csc.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csc.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csc.rsp
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csi.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\csi.rsp
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\vbc.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\vbc.rsp
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\Wild Dusk - Native.dll.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\Wild Dusk - Native.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\Wild Dusk - Native.pdb
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\obj\Debug\Wild Dusk - Native.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\obj\Debug\Wild Dusk - Native.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Wild Dusk - Native\Wild Dusk - Native\obj\Debug\Wild Dusk - Native.pdb
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\csc.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\csc.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\csc.rsp
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\csi.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\csi.rsp
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\vbc.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\vbc.rsp
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\Wild Dusk - Native.dll.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\Wild Dusk - Native.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\Wild Dusk - Native.pdb
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\obj\Debug\Wild Dusk - Native.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\obj\Debug\Wild Dusk - Native.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\Native\Wild Dusk - Native\obj\Debug\Wild Dusk - Native.pdb
