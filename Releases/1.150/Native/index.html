@@ -1,0 +1,471 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta charset="utf-8" />
+	<link rel="shorcut icon" href="https://cdn4.iconfinder.com/data/icons/system-ui-set/512/modern-latin-alphabet-letter-w-128.png" />
+	<title>Wild Dusk</title>
+	<!-- Framework 7 Style iOS -->
+	<link rel="stylesheet" href="dist/framework7.ios.min.css" />
+	<link rel="stylesheet" href="dist/framework7.ios.color.min.css" />
+	<!-- Font Awesome Style -->
+	<link rel="stylesheet" href="./dist/css/font-awesome.min.css" />
+	<link rel="stylesheet" href="app/app.css" />
+</head>
+
+<body>
+	<div class="views tabs toolbar-fixed">
+		<!-- Pagina de Inicio, abierta por defecto -->
+		<!--  [PAGE]  -->
+		<div id="app-page-index" class="view tab active">
+			<div class="navbar">
+				<div class="navbar-inner">
+					<div class="center" id="app-page-index-title">Wild Dusk Interface</div>
+				</div>
+			</div>
+			<div class="pages navbar-fixed">
+				<div data-page="app-main" class="page">
+					<div class="page-content">
+						<div class="content-block">
+							<div class="card">
+								<div class="card-header">Wild Dusk</div>
+								<div class="card-content">
+									<div class="card-content-inner">Lorem Ipsum...</div>
+								</div>
+								<div class="card-footer">9, Enero</div>
+							</div>
+						</div>
+						<div class="content-block-title">Galeria</div>
+						<div class="content-block row">
+							<div class="col-33"><a href="#" class="button" onclick="openCarousel();">Popup</a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--  [/PAGE]  -->
+		<!--  [PAGE]  -->
+		<div id="app-page-gen-updates" class="view tab">
+			<div class="navbar">
+				<div class="navbar-inner">
+					<div class="left"><a href="#" onclick="openPage('#app-page-options')" class="link"><i class="icon icon-back"></i><span>Back</span></a></div>
+					<div class="center" id="app-page-gen-updates-title">Updates Feeds</div>
+				</div>
+			</div>
+			<div class="pages navbar-fixed">
+				<div data-page="app-gen-update" class="page">
+					<div class="page-content">
+						<!-- List View -->
+						<div class="content-block-title">Actualizaciones</div>
+						<div class="list-block accordion-list">
+							<ul>
+								<li class="accordion-item">
+									<a href="#" class="item-content item-link">
+										<div class="item-inner">
+											<div class="item-title">Release 1.15</div>
+										</div>
+									</a>
+									<div class="accordion-item-content">
+										<div class="content-block-title">1.15 Features:</div>
+										<div class="content-block">
+											<p>- Force logIn to user.</p>
+											<p>- New view. User Information on-load Generated.</p>
+											<p>- User administration via Unique User Id.</p>
+											<p>- LogIn Permissions required for some actions.</p>
+										</div>
+									</div>
+								</li>
+								<li class="accordion-item">
+									<a href="#" class="item-content item-link">
+										<div class="item-inner">
+											<div class="item-title">Release 1.1029</div>
+										</div>
+									</a>
+									<div class="accordion-item-content">
+										<div class="content-block-title">1.1029 Features:</div>
+										<div class="content-block">
+											<p>- LogIn enabled.</p>
+											<p>- User verification process upgraded.</p>
+											<p>- Permissions per rank in progress.</p>
+											<p>- User controllers parsed.</p>
+											<p>- Cached process introduced (Testing).</p>
+											<p>- Notifications bug fixed.</p>
+											<p>- Bugs and stability fixed.</p>
+										</div>
+										<div class="content-block-title">Working on:</div>
+										<div class="content-block">
+											<p>- LogOut process function.</p>
+											<p>- Cached data saving.</p>
+											<p>- Per-page validation controllers.</p>
+											<p>- Permissions access.</p>
+										</div>
+									</div>
+								</li>
+								<li class="accordion-item">
+									<a href="#" class="item-content item-link">
+										<div class="item-inner">
+											<div class="item-title">Release 0.105</div>
+										</div>
+									</a>
+									<div class="accordion-item-content">
+										<div class="content-block-title">0.105 Features:</div>
+										<div class="content-block">
+											<p>- Added LogIn Feature.</p>
+											<p>- Autorun on system feature.</p>
+											<p>- Threath manager initialized.</p>
+											<p>- Added in-app notifications.</p>
+										</div>
+									</div>
+								</li>
+								<li class="accordion-item">
+									<a href="#" class="item-content item-link">
+										<div class="item-inner">
+											<div class="item-title">Release 0.1b3</div>
+										</div>
+									</a>
+									<div class="accordion-item-content">
+										<div class="content-block-title">0.1b3 Features:</div>
+										<div class="content-block">
+											<p>- Beta access.</p>
+											<p>- Console debbuging.</p>
+										</div>
+									</div>
+								</li>
+								<li class="accordion-item">
+									<a href="#" class="item-content item-link">
+										<div class="item-inner">
+											<div class="item-title">Release 0.1</div>
+										</div>
+									</a>
+									<div class="accordion-item-content">
+										<div class="content-block-title">0.1 Features:</div>
+										<div class="content-block">
+											<p>- First App Release.</p>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<div class="content-block">
+							<p>Some updates may not be released due instability issues.
+								<br /> For bug reporting go to <a class="external" href="https://www.dropbox.com/request/v3BEF6SkouwwThWjVI6P" target="_blank">Issues CDN</a> and upload a file .txt with your issue.
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--  [PAGE]  -->
+		<!-- Pagina  -->
+		<div id="app-page-options" class="view tab">
+			<div class="navbar">
+				<div class="navbar-inner">
+					<div class="center" id="app-page-optoins-title">User Options Interface</div>
+				</div>
+			</div>
+			<div class="pages navbar-fixed">
+				<div data-page="app-settings" class="page">
+					<div class="page-content">
+						<div class="list-block">
+							<ul>
+								<!-- Smart select item -->
+								<li>
+									<!-- Additional "smart-select" class -->
+									<a href="#" class="item-link smart-select">
+										<!-- select -->
+										<select name="app-settings">
+ 						         <option value="something-0" selected>Algo</option>
+      					     <option value="something-1">Algo</option>
+						        </select>
+										<div class="item-content">
+											<div class="item-inner">
+												<!-- Select label -->
+												<div class="item-title">Opcion</div>
+												<!-- Selected value, not required -->
+												<div class="item-after">Valor</div>
+											</div>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="#app-page-gen-updates" onclick="openPage('#app-page-gen-updates')" class="item-link item-content display-updates">
+										<div class="item-inner">
+											<div class="item-title">Actualizaciones</div>
+											<div class="item-after">Release 0.1b3</div>
+										</div>
+									</a>
+								</li>
+								<!-- Another smart selects or list view elements -->
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--  [/PAGE]  -->
+		<!--  [PAGE]  -->
+		<!-- Pagina de usuario, generada al iniciar sesion -->
+		<div id="app-page-ui" class="view tab">
+			<div class="navbar">
+				<div class="navbar-inner">
+					<div class="center" id="app-page-ui-title">User Control Interface</div>
+				</div>
+			</div>
+			<div class="pages navbar-fixed">
+				<div data-page="app-ui" class="page">
+					<div class="page-content">
+						<div class="content-block-title">Informacion Basica</div>
+						<div class="list-block">
+							<ul>
+								<li>
+									<a href="#" onclick="generateUserControl()" class="item-link item-content">
+										<div class="item-media"><i class="icon fa fa-user"></i></div>
+										<div class="item-inner">
+											<div class="item-title">Usuario</div>
+											<div class="item-after" id="ui-show-username">pass(dbo.table[user])</div>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="#" class="item-link item-content">
+										<div class="item-inner">
+											<div class="item-title">Estadisticas</div>
+											<div class="item-after" id="ui-show-status">pass(static)</div>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="#" class="item-link item-content">
+										<div class="item-inner">
+											<div class="item-title">Avanzado</div>
+										</div>
+									</a>
+								</li>
+							</ul>
+							<div class="list-block-label">Algunos reportes no cuentan con actualizacion constante.<br />La informacion podria no compatir con la base de datos.</div>
+						</div>
+						<!-- List View -->
+						<div class="content-block-title">Informacion General</div>
+						<div class="list-block">
+							<ul>
+								<li class="item-content">
+									<div class="item-inner">
+										<div class="item-title">Username</div>
+										<div class="item-after" id="ui-show-validate">No Registrado</div>
+									</div>
+								</li>
+								<li class="item-content">
+									<div class="item-inner">
+										<div class="item-title">Rango</div>
+										<div class="item-after"><span class="cursor badge" id="ui-show-rank">!</s></div>
+									</div>
+								</li>
+								<li class="item-content">
+									<div class="item-inner">
+										<div class="item-title">Identificacion</div>
+										<div class="item-after" id="ui-show-uuid">pass(uuid)</div>
+									</div>
+								</li>
+								<li class="item-content">
+									<div class="item-inner">
+										<div class="item-title">Version</div>
+										<div class="item-after" id="ui-show-version">pass(version)</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<p><a href="#" class="button button-fill button-big" onclick="logOut()" id="app-user-btn-logout">Log Out</a></p>
+						<p><a href="#" class="button button-fill button-big" onclick="logIn();" id="app-user-btn-login">Log In</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Tab bar with tab links -->
+		<div class="toolbar tabbar">
+			<div class="toolbar-inner">
+				<a id="app-1" onclick="" href="#app-page-options" class="tab-link"><i class="icon fa fa-gear"></i></a>
+				<a id="app-2" onclick="" href="#app-page-index" class="tab-link active"><i class="icon fa fa-circle-o-notch i-fa-bold"></i></a>
+				<a id="app-3" onclick="val()" href="#app-page-ui" class="tab-link"><i class="icon fa fa-user-o"></i></a>
+			</div>
+		</div>
+	</div>
+	</div>
+	<!-- Popups Control Manager -->
+	<!-- User Log In Screen -->
+	<div class="login-screen" id="app-page-loginscreen">
+		<div class="view">
+			<div class="page">
+				<div class="page-content login-screen-content">
+					<div class="login-screen-title">Inicia Sesion</div>
+					<form id="app-log-form">
+						<div class="list-block">
+							<ul>
+								<li class="item-content">
+									<div class="item-inner">
+										<div class="item-title label">Usuario</div>
+										<div class="item-input">
+											<input type="text" name="username" placeholder="RConsole" id="app-user-name-value" />
+										</div>
+									</div>
+								</li>
+								<li class="item-content">
+									<div class="item-inner">
+										<div class="item-title label">Contraseña</div>
+										<div class="item-input">
+											<input type="password" name="password" placeholder="rcon1234" id="app-user-password-value" />
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<div class="list-block">
+							<ul>
+								<li><a href="#" class="item-link list-button" id="app-log-perform" onclick="userPerform(document.getElementById('app-user-name-value').value, document.getElementById('app-user-password-value').value);">Iniciar Sesion</a></li>
+							</ul>
+							<div class="list-block-label">
+								<p>Wild Dusk @Copyrigth 2017</p>
+								<p><a href="#" class="close-login-screen" id="app-login-cancel">Cancelar</a></p>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<!-- WebPage Index Template
+
+
+  <div id="{{id}}" class="view tab">
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="center">View {{view}}</div>
+      </div>
+    </div>
+    <div class="pages navbar-fixed">
+      <div data-page="{{page}}" class="page">
+        <div class="page-content">
+          <div class="content-block">
+            <p>This is view {{view}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+-->
+
+<!-- Accordion Item Template
+	<div class="content-block-title">Records</div>
+		<div class="list-block accordion-list">
+			<ul>
+				<li class="accordion-item">
+					<a href="#" class="item-content item-link">
+						<div class="item-inner">
+							<div class="item-title">Item 1</div>
+						</div>
+					</a>
+					<div class="accordion-item-content">
+						<div class="content-block">
+							<p>Item 1 content. Lorem ipsum dolor sit amet...</p>
+						</div>
+					</div>
+				</li>
+				<li class="accordion-item">
+					<a href="#" class="item-content item-link">
+						<div class="item-inner">
+							<div class="item-title">Item 2</div>
+						</div>
+					</a>
+					<div class="accordion-item-content">
+						<div class="content-block">
+							<p>Item 2 content. Lorem ipsum dolor sit amet...</p>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+-->
+
+
+<!-- Update Feed Template
+			<li class="accordion-item">
+				<a href="#" class="item-content item-link">
+					<div class="item-inner">
+						<div class="item-title">Release {release}</div>
+					</div>
+				</a>
+				<div class="accordion-item-content">
+					<div class="content-block-title">{release} Features:</div>
+					<div class="content-block">
+						<p>- {features}</p>
+					</div>
+				</div>
+			</li>
+-->
+
+  <!-- Popup Page Template
+		<div class="popup popup-{{name}}">
+    <div class="content-block">
+      <p>{{title}}</p>
+      <p><a href="#" class="close-popup">Close popup</a></p>
+      <p>Lorem ipsum dolor ...</p>
+    </div>
+  </div>
+	-->
+
+	<!-- Framework 7 Script -->
+	<script src="dist/framework7.min.js"></script>
+	<script>
+		var Cache = {
+			User: {
+				Credentials: {
+					banned: false,
+					verifiedInLogScreen: false,
+					Errors: {
+						Counter: 0,
+						passwordError: false,
+						usernameError: false,
+						validateError: false,
+						databaseError: false
+					}
+				},
+				Data: {
+					hasEverLogedIn: false,
+					account: {
+						username: null,
+						password: null,
+						rk: 0,
+						status: ''
+					},
+					options: [0, 0, 0, 0, 0, 0, 0]
+				},
+				Session: {
+					logScreen: {
+						hasOpenLogScreen: false,
+						hasClosedLogScreen: false,
+						hasCanceledLogScreen: false,
+						isDefaultClosed: true,
+						hasTypedIn: false
+					},
+					attempToLog: false
+				}
+			}
+		}
+	</script>
+	<script src="app/dbo.js"></script>
+	<script src="app/app.js"></script>
+	<!-- Controllers -->
+	<script src="app/controllers/login.js">
+		/* User Login Controller */
+	</script>
+	<script src="app/controllers/user-interface.js">
+		/* User Interface Controller */
+	</script>
+	<script src="app/controllers/autocomplete.js">
+		/* Autocomplete Controller */
+	</script>
+</body>
+
+</html>

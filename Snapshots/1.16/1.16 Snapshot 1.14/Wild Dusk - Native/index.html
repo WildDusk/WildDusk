@@ -1,0 +1,452 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="shortcut icon" href="./libs/wd/icon/icon.256.png" />
+    <link rel="stylesheet" href="./libs/ext/framework7.ios.min.css" />
+    <link rel="stylesheet" href="./libs/ext/framework7.ios.colors.min.css" />
+    <link rel="stylesheet" href="./libs/ext/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="./libs/wd/wd.css" />
+    <title>Wild Dusk</title>
+</head>
+
+<body>
+    <div class="panel panel-left panel-cover">
+        <div class="view panel-view"></div>
+    </div>
+    <div class="views tabs toolbar-fixed">
+        <!-- Default Page. Open. -->
+        <div id="wd-page-index" class="view tab active">
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <div class="center">Wild Dusk</div>
+                </div>
+            </div>
+            <div class="pages navbar-fixed">
+                <div data-page="index" class="page">
+                    <div class="page-content ptr-content-index pull-to-refresh-content infinite-scroll" data-distance="100" data-ptr-distance="55">
+                        <!-- Default pull to refresh layer-->
+                        <div class="pull-to-refresh-layer">
+                            <div class="preloader"></div>
+                            <div class="pull-to-refresh-arrow"></div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header">New Releases:</div>
+                            <div class="card-content">
+                                <div class="list-block media-list">
+                                    <ul id="version-history">
+                                        <li>
+                                            <a class="item-content item-link" onclick="versionPage('Submarine');">
+                                                <div class="item-media">
+                                                    <img src="./libs/wd/icon/vrs/Submarine/icon.128.png" width="44">
+                                                </div>
+                                                <div class="item-inner">
+                                                    <div class="item-title-row">
+                                                        <div class="item-title">Submarine</div>
+                                                    </div>
+                                                    <div class="item-subtitle link">Version 1.16</div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="item-content item-link" onclick="versionPage('Feather');">
+                                                <div class="item-media">
+                                                    <img src="./libs/wd/icon/vrs/Feather/icon.128.png" width="44">
+                                                </div>
+                                                <div class="item-inner">
+                                                    <div class="item-title-row">
+                                                        <div class="item-title">Feather</div>
+                                                    </div>
+                                                    <div class="item-subtitle link">Version 1.15</div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="item-content item-link" onclick="versionPage('Marble');">
+                                                <div class="item-media">
+                                                    <img src="./libs/wd/icon/vrs/Marble/icon.128.png" width="44">
+                                                </div>
+                                                <div class="item-inner">
+                                                    <div class="item-title-row">
+                                                        <div class="item-title">Marble</div>
+                                                    </div>
+                                                    <div class="item-subtitle link">Version 1.1029</div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <span>January 15, 2017</span>
+                                <span><a class="link" href="" onclick="showAllVersion();">Ver Todo</a></span>
+                            </div>
+                        </div>
+                        <div class="content-block-title">Nota:</div>
+                        <!-- This block will be inset only on tablets -->
+                        <div class="content-block inset">
+                            <div class="content-block-inner">
+                                <p>Algunas actualizaciones han sido eliminadas debido a su baja estabilidad.<br />Para reportara algun error en la version actual, por favor visita <a class="ext" href="https://www.dropbox.com/request/v3BEF6SkouwwThWjVI6P" target="_blank">Wild Dusk Issues</a> y dejanos una muestra del error que has encontrado.</p>
+                            </div>
+                        </div>
+                        <p class="wd-separator"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Settings Page. -->
+        <div id="wd-page-settings" class="view tab">
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <div class="center">Ajustes</div>
+                </div>
+            </div>
+            <div class="pages navbar-fixed">
+                <div data-page="settings" class="page">
+                    <div class="page-content">
+                        <div class="content-block-title">Personaliza la app</div>
+                        <div class="list-block">
+                            <ul>
+                                <li>
+                                    <a href="#" class="item-link smart-select" data-page-title="Utiliza un Color Principal" data-back-text="Aceptar" data-open-in="popup" id="settings-color">
+                                        <select name="Estilo" multiple maxlength="1">
+                                            <optgroup label="Color Primario">
+                                                <option id="wd-color-blue" title="change-color" data-option-color="blue" value="blue">Azul</option>
+                                                <option id="wd-color-gray" title="change-color" data-option-color="gray" value="gray">Gris</option>
+                                                <option id="wd-color-black" title="change-color" data-option-color="black" value="black">Negro</option>
+                                                <option id="wd-color-lightblue" title="change-color" data-option-color="lightblue" value="lightblue">Celeste</option>
+                                                <option id="wd-color-yellow" title="change-color" data-option-color="yellow" value="yellow">Amarillo</option>
+                                                <option id="wd-color-orange" title="change-color" data-option-color="orange" value="orange">Anaranjado</option>
+                                                <option id="wd-color-green" title="change-color" data-option-color="green" value="green">Verde</option>
+                                                <option id="wd-color-pink" title="change-color" data-option-color="pink" value="pink">Rosado</option>
+                                                <option id="wd-color-red" title="change-color" data-option-color="red" value="red">Rojo</option>
+                                            </optgroup>
+                                        </select>
+                                        <div class="item-content">
+                                            <div class="item-inner">
+                                                <div class="item-title">Estilo</div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="item-link smart-select" data-page-title="Utiliza un Tema" data-back-text="Aceptar" data-open-in="popup" id="settings-theme">
+                                        <select name="Estilo" multiple maxlength="1">
+                                            <optgroup label="Color de Fondo">
+                                                <option id='wd-theme-default' title="change-theme" value="layout-normal">Por Defecto</option>
+                                                <option id="wd-theme-dark" title="change-theme" value="layout-dark">Oscuro</option>
+                                                <option id="wd-theme-white" title="change-theme" value="layout-white">Claro</option>
+                                            </optgroup>
+                                        </select>
+                                        <div class="item-content">
+                                            <div class="item-inner">
+                                                <div class="item-title">Tema</div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <p class="wd-separator"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- User Control Page -->
+        <div id="wd-page-user" class="view tab">
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <div class="center">Mi Cuenta</div>
+                </div>
+            </div>
+            <div class="pages navbar-fixed">
+                <div data-page="user" class="page">
+                    <div class="page-content ptr-content-user pull-to-refresh-content" data-ptr-distance="55">
+                        <div class="pull-to-refresh-layer">
+                            <div class="preloader"></div>
+                            <div class="pull-to-refresh-arrow"></div>
+                        </div>
+                        <div class="content-block">
+                            <p>Esta pagina aun esta siendo construida.
+                            </p>
+                        </div>
+                        <div class="card demo-card-header-pic">
+                            <div style="background-image:url(./libs/wd/icon/icon.512.png)" valign="bottom" class="card-header color-green no-border">Journey To Mountains</div>
+                            <div class="card-content">
+                                <div class="card-content-inner">
+                                    <p class="color-gray">Posted on January 21, 2015</p>
+                                    <p>Quisque eget vestibulum nulla...</p>
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <a href="#" class="link">Like</a>
+                                <a href="#" class="link">Read more</a>
+                            </div>
+                        </div>
+                        <p class="wd-separator"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Information Page.  -->
+        <div id="wd-page-info" class="view tab">
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <div class="center">Informacion</div>
+                </div>
+            </div>
+            <div class="pages navbar-fixed">
+                <div data-page="info" class="page">
+                    <div class="page-content pull-to-refresh-content ptr-content-info" data-ptr-distance="55">
+                        <div class="pull-to-refresh-layer">
+                            <div class="preloader"></div>
+                            <div class="pull-to-refresh-arrow"></div>
+                        </div>
+                        <div class="list-block">
+                            <ul>
+                                <li class="item-content">
+                                    <div class="item-inner">
+                                        <div class="item-title">Item 1</div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="list-block">
+                            <ul>
+                                <!-- Smart select item -->
+                                <li>
+                                    <!-- Additional "smart-select" class -->
+                                    <a href="#" class="item-link smart-select">
+                                        <!-- select -->
+                                        <select name="fruits">
+                                            <option type="radio" name="color-radio" value="yellow">Apple</option>
+                                            <option type="radio" name="color-radio" value="green">Pineapple</option>
+                                        </select>
+                                        <div class="item-content">
+                                            <div class="item-inner">
+                                                <!-- Select label -->
+                                                <div class="item-title">Fruit</div>
+                                                <!-- Selected value, not required -->
+                                                <div class="item-after">Apple</div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <!-- Another smart selects or list view elements -->
+                            </ul>
+                        </div>
+                        <p class="wd-separator"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Other Page -->
+        <div id="wd-page-other" class="view tab">
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <div class="center">Pagina Extra</div>
+                </div>
+            </div>
+            <div class="pages navbar-fixed">
+                <div data-page="other" class="page">
+                    <!-- Search Bar with "searchbar-init" class for auto initialization -->
+                    <form class="searchbar searchbar-init" data-search-list=".list-block-search" data-search-in=".item-title" data-found=".searchbar-found" data-not-found=".searchbar-not-found">
+                        <div class="searchbar-input">
+                            <input type="search" placeholder="Buscar Usuario">
+                            <a href="#" class="searchbar-clear"></a>
+                        </div>
+                        <a href="#" class="searchbar-cancel">Cancel</a>
+                    </form>
+                    <div class="searchbar-overlay"></div>
+                    <div class="page-content ptr-content-other pull-to-refresh-content infinite-scroll" data-distance="100" data-ptr-distance="55">
+                        <div class="pull-to-refresh-layer">
+                            <div class="preloader"></div>
+                            <div class="pull-to-refresh-arrow"></div>
+                        </div>
+                        <div class="content-block searchbar-not-found">No se encontro en la base de datos.</div>
+                        <div class="list-block list-block-search searchbar-found">
+                            <ul>
+                                <li>
+                                    <a href="#" class="item-link item-content" onclick="userCard('AL56AF50');">
+                                        <div class="item-media"><img src="./libs/wd/icon/usr/m/icon.128.png" height="40"></div>
+                                        <div class="item-inner">
+                                            <div class="item-title">AL56AF50</div>
+                                            <div class="item-after">Admin</div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="item-link item-content" onclick="userCard('Alexltx');">
+                                        <div class="item-media"><img src="./libs/wd/icon/usr/m/icon.128.png" height="40"></div>
+                                        <div class="item-inner">
+                                            <div class="item-title">Alexltx</div>
+                                            <div class="item-after">Admin</div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="item-link item-content" onclick="userCard('AliciaLove14');">
+                                        <div class="item-media"><img src="./libs/wd/icon/usr/f/icon.128.png" height="40"></div>
+                                        <div class="item-inner">
+                                            <div class="item-title">AliciaLove14</div>
+                                            <div class="item-after">Moderator</div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="item-link item-content" onclick="userCard('ChloeNozek');">
+                                        <div class="item-media"><img src="./libs/wd/icon/usr/f/icon.128.png" height="40"></div>
+                                        <div class="item-inner">
+                                            <div class="item-title">ChloeNozek</div>
+                                            <div class="item-after">Moderator</div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="item-link item-content" onclick="userCard('MartinaRC');">
+                                        <div class="item-media"><img src="./libs/wd/icon/usr/f/icon.128.png" height="40"></div>
+                                        <div class="item-inner">
+                                            <div class="item-title">MartinaRC</div>
+                                            <div class="item-after">Moderator</div>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                            <div class="list-block-label">List block label text goes here</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--  Bottom Navbar   -->
+        <div class="toolbar tabbar">
+            <div class="toolbar-inner">
+                <a href="#wd-page-settings" class="tab-link">
+                    <i class="icon fa fa-cog">
+                        <span class="badge bg-red"></span>
+                    </i>
+                </a>
+                <a href="#wd-page-info" class="tab-link">
+                    <i class="icon fa fa-info"></i>
+                </a>
+                <a href="#wd-page-index" class="tab-link active">
+                    <i class="icon fa fa-circle-o-notch"></i>
+                </a>
+                <a href="#wd-page-other" class="tab-link">
+                    <i class="icon fa fa-square-o"></i>
+                </a>
+                <a href="#wd-page-user" class="tab-link">
+                    <i class="icon fa fa-user-circle-o">
+                        <span class="badge bg-red"></span>
+                    </i>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="popup popup-settings-theme">
+        <div class="navbar">
+            <div class="navbar-inner">
+                <div class="left"><a class="link back" onclick="wd.closeModal('.popup-settings-theme')"><i class="icon icon-back"></i>Aceptar</a></div>
+                <div class="center">Estilo</div>
+            </div>
+        </div>
+        <div class="content-block">
+            <p class="buttons-row"><a href="#" class="button active">Boton 1</a><a href="#" class="button">Boton 2</a><a href="#" class="button">Boton 3</a></p>
+            <p><a href="#" class="button button-big button-fill">Boton</a></p>
+        </div>
+        <div class="content-block-title">Escoge el tema de la aplicacion</div>
+        <div class="list-block">
+            <ul>
+                <li>
+                    <label class="label-radio item-content">
+                        <input id="wd-theme" type="radio" name="layout-radio" value="" checked="">
+                        <div class="item-inner">
+                            <div class="item-title">Normal</div>
+                        </div>
+                    </label>
+                </li>
+                <li>
+                    <label class="label-radio item-content">
+                        <input id="wd-theme-dark" type="radio" name="layout-radio" value="layout-dark">
+                        <div class="item-inner">
+                            <div class="item-title">Oscuro</div>
+                        </div>
+                    </label>
+                </li>
+                <li>
+                    <label class="label-radio item-content">
+                        <input id="wd-theme-white" type="radio" name="layout-radio" value="layout-white">
+                        <div class="item-inner">
+                            <div class="item-title">Claro</div>
+                        </div>
+                    </label>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="login-screen">
+        <div class="view">
+            <div class="page">
+                <div class="page-content login-screen-content">
+                    <div class="login-screen-title">Wild Dusk</div>
+                    <form>
+                        <div class="list-block">
+                            <ul>
+                                <li class="item-content">
+                                    <div class="item-inner">
+                                        <div class="item-title label">Username</div>
+                                        <div class="item-input">
+                                            <input id="wd-login-user" type="text" name="username" placeholder="Nombre de Usuario" />
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item-content">
+                                    <div class="item-inner">
+                                        <div class="item-title label">Contraseña</div>
+                                        <div class="item-input">
+                                            <input id="wd-login-psw" type="password" name="password" placeholder="Tu Contraseña" />
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="list-block">
+                            <ul>
+                                <li><a href="#" class="item-link list-button">Iniciar Sesion</a></li>
+                            </ul>
+                            <div class="list-block-label">
+                                <p>Wild Dusk. @Copyright 2017. Todos los derechos reservados.</p>
+                                <p><a href="#" class="close-login-screen">Cancelar</a></p>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./libs/ext/framework7.min.js"></script>
+    <script src="./libs/wd/wd.js"></script>
+    <script src="./libs/wd/database.js"></script>
+    <script src="./libs/wd/controllers/options/bots/autocomplete.js"></script>
+    <script src="./libs/wd/controllers/options/bots/autoloaddata.js"></script>
+    <script src="./libs/wd/controllers/options/bots/autologin.js"></script>
+    <script src="./libs/wd/controllers/options/bots/autosavedata.js"></script>
+    <script src="./libs/wd/controllers/options/bots/controller.js"></script>
+    <script src="./libs/wd/controllers/options/animations/progressbar.js"></script>
+    <script src="./libs/wd/controllers/options/animations/pulltorefresh.js"></script>
+    <script src="./libs/wd/controllers/options/animations/preloader.js"></script>
+    <script src="./libs/wd/controllers/options/animations/infinitescroll.js"></script>
+    <script src="./libs/wd/controllers/options/animations/theme.js"></script>
+    <script src="./libs/wd/controllers/options/animations/showcontent.js"></script>
+    <script src="./libs/wd/controllers/views/versions.js"></script>
+    <script src="./libs/wd/controllers/views/user.js"></script>
+    <script>
+        window.onload = loadStyle();
+    </script>
+</body>
+
+</html>

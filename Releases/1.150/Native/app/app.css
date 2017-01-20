@@ -1,0 +1,55 @@
+.icon {
+  font-size: 32px;
+}
+
+.i-fa-bold {
+  font-weight: 900;
+}
+
+.app-alert {
+  background-color: red;
+}
+
+.app-advise {
+  background-color: orange;
+}
+
+.app-warning {
+  background-color: yellow;
+}
+
+.app-hint {
+  background-color: lawngreen;
+}
+
+.app-success {
+  background-color: green;
+}
+
+.app-help {
+  background-color: dodgerblue;
+}
+
+.popup-overlay {
+  background: rgba(255, 255, 255, 4);
+}
+
+#app-user-btn-logout {
+  background: red;
+  margin: 0 12px;
+  display: none;
+}
+
+#app-user-btn-login {
+  background: rgb(0, 220, 0);
+  margin: 0 12px;
+  display: none;
+}
+
+.cursor:hover {
+  cursor: pointer;
+}
+
+.modal-overlay.modal-overlay-visible {
+  opacity: 0;
+}
