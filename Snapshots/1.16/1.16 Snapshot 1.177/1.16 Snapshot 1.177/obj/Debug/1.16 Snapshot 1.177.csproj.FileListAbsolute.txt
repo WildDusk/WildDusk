@@ -1,0 +1,34 @@
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\csc.exe
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\csc.exe.config
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\csc.rsp
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\csi.exe
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\csi.rsp
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\vbc.exe
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\vbc.rsp
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\1.16 Snapshot 1.177.dll.config
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\1.16 Snapshot 1.177.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\1.16 Snapshot 1.177.pdb
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\obj\Debug\1.16 Snapshot 1.177.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\obj\Debug\1.16 Snapshot 1.177.dll
+C:\Users\usuario\Wild Dusk\WIld Dusk - Git\1.16 Snapshot 1.177\1.16 Snapshot 1.177\obj\Debug\1.16 Snapshot 1.177.pdb
